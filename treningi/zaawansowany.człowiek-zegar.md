@@ -92,4 +92,5 @@ Konfiguracja widgetów na jednym z ekranów, do łatwego przełączania.
 Tu czas jest odliczany do zera. Im mniejszy pozostały czas, tym lepszy wynik.
 ![obraz](https://github.com/wichur/scenariusze.asg/assets/11137221/a48bf653-6fc5-4fd1-b910-74c01a807c95)
 
-
+### 99. PDF
+Konwersja do PDF https://www.aconvert.com/pdf/md-to-pdf/
