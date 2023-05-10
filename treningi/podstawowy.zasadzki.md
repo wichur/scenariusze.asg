@@ -26,9 +26,9 @@ W treningu chodzi o przyzwyczajenie się do działania w takiej sytuacji, wpo ob
 
 ## 3. Przebieg
 1. Zasadzkę należy rotować co 1-2 gry
-1. **Po każdej zasadzce należy omówić wspólnie jej przebieg**
-1. **Zasadzka opisuje plan i wykonanie**
-1. **Patrol opisuje ustalenia i reakcję**
+1. __Po każdej zasadzce należy omówić wspólnie jej przebieg__
+1. Zasadzka opisuje plan i wykonanie
+1. Patrol opisuje ustalenia i reakcję
 
 ### Zasadzka
 1. Odchodzi po drodze, poza zasięg widzenia (min. 150m)
