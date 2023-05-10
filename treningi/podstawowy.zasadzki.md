@@ -26,9 +26,9 @@ W treningu chodzi o przyzwyczajenie się do działania w takiej sytuacji, wpo ob
 
 ## 3. Przebieg
 1. Zasadzkę należy rotować co 1-2 gry
-1. ** Po każdej zasadzce należy omówić wspólnie jej przebieg **
-1. ** Zasadzka opisuje plan i wykonanie **
-1. ** Patrol opisuje ustalenia i reakcję **
+1. **Po każdej zasadzce należy omówić wspólnie jej przebieg**
+1. **Zasadzka opisuje plan i wykonanie**
+1. **Patrol opisuje ustalenia i reakcję**
 
 ### Zasadzka
 1. Odchodzi po drodze, poza zasięg widzenia (min. 150m)
@@ -53,3 +53,11 @@ W treningu chodzi o przyzwyczajenie się do działania w takiej sytuacji, wpo ob
 1. Medykowanie
 1. Zasadzka ma po zadaniu 50% strat wycofać się
 1. Zasadzka przegrywa gdy poniesie co najmniej 25% strat
+
+## 6. Do omawiania
+1. Nie ma rzeczy nieistotnych
+1. Jak działałą komunikacja?
+1. Jak sprawdzają się repliki?
+1. Czy maskowanie działa?
+1. Czy były dobrane dbre pozycje?
+1. Czy perymetry były obserwowane?
