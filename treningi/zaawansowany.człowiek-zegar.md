@@ -20,7 +20,7 @@ Te zasady są dla orga i Człowieka-Zegara. Nie powinny być przekazywane graczo
 1. Odpowiedzenie na pytania
 1. Upewnienie się, że wszystko jest zrozumiałe
 1. Podzielenie graczy z różnych ekip na mieszane zespoły (odlicz do 3, albo wskazanie palcem)
-1. Najlepiej 3-6 osób
+1. Najlepiej 4-9 osób
 1. Najpierw technika, a potem jest uzupełniana o latarki
 1. Nie musi być taka sama ilość ludzi
 1. Nie dopuścić do zlepiania się tych samych ekip/graczy ze sobą, którzy regularnie grają
