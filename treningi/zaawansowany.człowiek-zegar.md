@@ -2,7 +2,7 @@
 # Człowiek-Zegar
 Wiele ekip cierpi na syndrom specjalizacji - wyłania się naturalny nawigator, dowódca, zwiadowca, rto, a reszta zajmuje się tylko naciskaniem spustu. Gdy ginie jeden z wymioenionych, a zwłąszcza ten znający cele i zadania, to reszta staje się zagubiona, nie wie co ma robić dalej. Dokładając do tego stres, zmęczenie, warunki pogodowe, to okazuje się, że nie wiadomo, który guzik nacisnąć, co wpisac w kartkę na drzewie, co zabrać ze sobą... 
 
-Ćwiczenie ma za zadanie zasymulować, w ograniczonym czasie i terenie, powyższą sytuację. Wymusić na graczach nie tylko strzelanie i chodzenie, ale i myślenie o całości. Formuła jest taka, by zachęcić i gratyfikować, poprzez aktywną rozgrywkę.
+Ćwiczenie symuluje, w ograniczonym czasie i terenie, powyższą sytuację. Wymusza na graczach nie tylko strzelanie i chodzenie, ale i myślenie o całości. Formuła jest taka, by zachęcić i gratyfikować, poprzez aktywną rozgrywkę.
 
 ## Ważne
 Te zasady są dla orga i Człowieka-Zegara. Nie powinny być przekazywane graczom wcześniej. Wszystkiego dowiedzą się na odprawie. Elementy do przekazania graczom są oznaczone.
@@ -23,10 +23,10 @@ Te zasady są dla orga i Człowieka-Zegara. Nie powinny być przekazywane graczo
 1. Najlepiej 3-6 osób
 1. Najpierw technika, a potem jest uzupełniana o latarki
 1. Nie musi być taka sama ilość ludzi
-2. Nie dopuścić do zlepiania się tych samych ekip/graczy ze sobą, którzy regularnie grają
-3. Czas 10-15min dla zespołów na przygotowanie się i ustalenia
-4. Rozprowadzenie zespołów ok 150-200m od pozycji startowej zegara, centralnie między nimi
-5. Ogłoszenie Startu na radiu, lub o określonej godzinie
+1. Nie dopuścić do zlepiania się tych samych ekip/graczy ze sobą, którzy regularnie grają
+1. Czas 10-15min dla zespołów na przygotowanie się i ustalenia
+1. Rozprowadzenie zespołów ok 150-200m od pozycji startowej zegara, centralnie między nimi
+1. Ogłoszenie Startu na radiu, lub o określonej godzinie
 
 ## 3. Przebieg 
 > Przekazać graczom na odprawie
