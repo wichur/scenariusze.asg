@@ -23,9 +23,10 @@ Te zasady są dla orga i Człowieka-Zegara. Nie powinny być przekazywane graczo
 1. Najlepiej 3-6 osób
 1. Najpierw technika, a potem jest uzupełniana o latarki
 1. Nie musi być taka sama ilość ludzi
-1. Czas 10-15min dla zespołów na przygotowanie się i ustalenia
-1. Rozprowadzenie zespołów ok 150-200m od pozycji startowej zegara, centralnie między nimi
-1. Ogłoszenie Startu na radiu, lub o określonej godzinie
+2. Nie dopuścić do zlepiania się tych samych ekip/graczy ze sobą, którzy regularnie grają
+3. Czas 10-15min dla zespołów na przygotowanie się i ustalenia
+4. Rozprowadzenie zespołów ok 150-200m od pozycji startowej zegara, centralnie między nimi
+5. Ogłoszenie Startu na radiu, lub o określonej godzinie
 
 ## 3. Przebieg 
 > Przekazać graczom na odprawie
