@@ -7,7 +7,7 @@ Wiele ekip cierpi na syndrom specjalizacji - wyłania się naturalny nawigator, 
 ## Ważne
 Te zasady są dla orga i Człowieka-Zegara. Nie powinny być przekazywane graczom wcześniej. Wszystkiego dowiedzą się na odprawie. Elementy do przekazania graczom są oznaczone.
 
-## 1. Cel
+## 1. Cel treningu
 1. Rozbicie utartych schematów pracy drużyn
 1. WSZYSCY gracze muszą nauczyć się pamiętać i rozumieć zadanie
 1. Pobudzenie kreatywności
@@ -83,12 +83,12 @@ Te zasady są dla orga i Człowieka-Zegara. Nie powinny być przekazywane graczo
 1. Medykowanie, lub brak
 1. Można wprowadzić zasady z nadchodzącej gry by graczom mocno zapadły w pamięć
 
-## 9. Nardzędzia
+## 9. Narzędzia
 Przykładowa aplikacja do pomiaru czasu: Multi Timer 
 https://play.google.com/store/apps/details?id=com.jee.timer&hl=en&gl=US
 
 Konfiguracja widgetów na jednym z ekranów, do łatwego przełączania.
 Tu czas jest odliczany do zera. Im mniejszy pozostały czas, tym lepszy wynik.
-
+![obraz](https://github.com/wichur/scenariusze.asg/assets/11137221/a48bf653-6fc5-4fd1-b910-74c01a807c95)
 
 
