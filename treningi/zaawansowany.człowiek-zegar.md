@@ -29,7 +29,7 @@ Te zasady są dla orga i Człowieka-Zegara. Nie powinny być przekazywane graczo
 1. Ogłoszenie Startu na radiu, lub o określonej godzinie
 
 ## 3. Przebieg 
-> Przekazać graczom na odprawie
+> Przekazać graczom DOPIERO na odprawie
 1. Człowiek-Zegar liczy czas dla każdej drużyny, kiedy jest przez nią przejęty
 1. Trwa to do czasu przejęcia przez inną drużynę
 1. Należy utrzymać zegar przez jak największą ilość czasu
@@ -37,7 +37,7 @@ Te zasady są dla orga i Człowieka-Zegara. Nie powinny być przekazywane graczo
 1. Gra się ustalony czas np 1h 30m, lub gdy grace mają już dosyć, brak kulek, itp
 
 ## 4. Zasady gry
-> Przekazać graczom na odprawie
+> Przekazać graczom DOPIERO na odprawie
 1. Resp 5 minut, ok 150m od miejsca śmierci, tam gdzie nic się nie dzieje
 1. Żywi odchodzą z miejsc, gdzie ktoś się respi
 1. Trafienie - trup, 
