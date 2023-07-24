@@ -30,6 +30,7 @@ Te zasady są dla orga i Człowieka-Zegara. Nie powinny być przekazywane graczo
 
 ## 3. Przebieg 
 > Przekazać graczom DOPIERO na odprawie
+
 1. Człowiek-Zegar liczy czas dla każdej drużyny, kiedy jest przez nią przejęty
 1. Trwa to do czasu przejęcia przez inną drużynę
 1. Należy utrzymać zegar przez jak największą ilość czasu
